@@ -15,7 +15,9 @@ So I'm back. Good luck for me.
 
 
 
-I am Tony.
+
+------------------
+
 
 I haven't written code for more than ten years since I left college. Now, because of AI, I've started coding again. To be precise, it's not me writing the code, but AI.
 
